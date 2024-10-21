@@ -21,8 +21,7 @@ Ensure proper error handling and user-friendly prompts throughout the system.
 Allow the user to retry OTP entry in case of incorrect input.
 
 
-
-#Project Deliverables:
+# Project Deliverables:
 
 Python script containing the implementation of the OTP verification system.
 
