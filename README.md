@@ -2,10 +2,8 @@
 I develop a OTP verification system. An OTP (One-Time Password) verification system generates and sends a temporary password to the user for secure authentication, validating user identity via email using Python.
 
 
-
 ##Problem Statement:
 You are tasked with developing an OTP (One-Time Password) verification system in Python. The system should generate a 6-digit OTP and send it to the user's email address for verification. Upon receiving the OTP, the user should enter it into the system for validation. If the entered OTP matches the generated OTP, access should be granted; otherwise, access should be denied.
-
 
 
 ##Project Requirements:
