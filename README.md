@@ -16,7 +16,6 @@ You are tasked with developing an OTP (One-Time Password) verification system in
 5. Ensure proper error handling and user-friendly prompts throughout the system.
 6. Allow the user to retry OTP entry in case of incorrect input.
 
-
 # Project Deliverables:
 
 1. Python script containing the implementation of the OTP verification system.
