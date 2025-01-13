@@ -9,7 +9,7 @@ You are tasked with developing an OTP (One-Time Password) verification system in
 # Project Requirements:
 
 * Implement a function to generate a 6-digit OTP randomly.
-2. Develop a function to simulate sending the OTP to the user's email address.
+* Develop a function to simulate sending the OTP to the user's email address.
 3. Create a function to prompt the user to enter the OTP received in their email.
 4. Implement a function to verify if the entered OTP matches the generated OTP.
 5. Ensure proper error handling and user-friendly prompts throughout the system.
