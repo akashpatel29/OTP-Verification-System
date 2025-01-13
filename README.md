@@ -13,7 +13,7 @@ You are tasked with developing an OTP (One-Time Password) verification system in
 * Create a function to prompt the user to enter the OTP received in their email.
 * Implement a function to verify if the entered OTP matches the generated OTP.
 * Ensure proper error handling and user-friendly prompts throughout the system.
-6. Allow the user to retry OTP entry in case of incorrect input.
+* Allow the user to retry OTP entry in case of incorrect input.
 
 # Project Deliverables:
 
