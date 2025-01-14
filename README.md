@@ -20,4 +20,4 @@ You are tasked with developing an OTP (One-Time Password) verification system in
 * Python script containing the implementation of the OTP verification system.
 * Documentation explaining the functionality of each function, how to run the program, and any dependencies required.
 * Test cases to ensure the system functions correctly under various scenarios, including correct and incorrect OTP entries.
- Optionally, you can create a simple GUI interface for the OTP verification system to enhance user experience.
+* Optionally, you can create a simple GUI interface for the OTP verification system to enhance user experience.
