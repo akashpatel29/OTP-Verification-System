@@ -22,5 +22,5 @@ You are tasked with developing an OTP (One-Time Password) verification system in
 * Test cases to ensure the system functions correctly under various scenarios, including correct and incorrect OTP entries.
 * Optionally, you can create a simple GUI interface for the OTP verification system to enhance user experience.
 
-                                ✨---------------------------------------------------------------------------------------------------------------✨
+                                ✨---------------------------------------------------------------------------------------------------------✨
                             
